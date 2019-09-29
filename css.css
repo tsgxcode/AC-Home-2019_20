@@ -29,25 +29,25 @@ body{
 
 /*Navigation styles*/
 
-.s-m{
+.s-m >{
   margin-left:25px;
   position: fixed;
   display: inline-block;
 
 }
 .s-m a{
- 
-  margin-top: 50px;
+  margin-left:50px;
+  margin-top: 100px;
   text-decoration: none;
   font-size: 20px;
-  color: #f1f1f1;
+  color: #a9f123;
   width: 40px;
   height: 40px;
   text-align: center;
   transition: 0.4s all;
   line-height: 40px;
   cursor: pointer;
-  background: #2b80b18a;
+  
   border-radius: 1%;
 }
 .s-m a:hover{
